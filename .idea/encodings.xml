@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/EducationDetailsOneToOne/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EducationDetailsOneToOne/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIbernateHQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIbernateHQL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateAnnotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateAnnotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateCRUD1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateCRUD1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateGenrationStrategy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateGenrationStrategy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateHqll/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateHqll/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateOneToOne/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HibernateOneToOne/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
